@@ -53,51 +53,8 @@ A real-time IoT-based system using **ESP32**, **current sensors (ACS712/SCT-013 
 
 ## 📦 Folder Structure
 
-smart-metering/
-│
-├── 📁 api/ # API endpoints (e.g., readings_api.php, upload_current.php)
-├── 📁 app/ # Application logic (JS/TS code)
-├── 📁 assets/ # Static assets (images, icons, fonts)
-├── 📁 components/ # Reusable UI components (if using frontend framework)
-├── 📁 controlhome/ # Pages/scripts to control home appliances
-├── 📁 database setup/ # SQL files or database initialization scripts
-├── 📁 hooks/ # Custom hooks or backend logic extensions
-├── 📁 includes/ # PHP includes (like db connection or config files)
-├── 📁 lib/ # Third-party libraries
-├── 📁 public/ # Public assets (index.html, favicon, etc.)
-├── 📁 scripts/ # Utility or automation scripts
-├── 📁 styles/ # CSS/Tailwind styles
-│
-├── 📄 .gitignore
-├── 📄 README.md
-├── 📄 api_test.php
-├── 📄 auto_calculate.php
-├── 📄 command.php
-├── 📄 components.json
-├── 📄 costs.php
-├── 📄 dashboard.php
-├── 📄 device_status.php
-├── 📄 energy_calculations.php
-├── 📄 esp32_smart_meter.ino # ESP32 Arduino sketch
-├── 📄 get_status.php
-├── 📄 home.php
-├── 📄 login.php
-├── 📄 logincheck.php
-├── 📄 readings.php
-├── 📄 readings_api.php
-├── 📄 settings.php
-├── 📄 signup.php
-├── 📄 tailwind.config.ts
-├── 📄 tsconfig.json
-├── 📄 next.config.mjs
-├── 📄 postcss.config.mjs
-├── 📄 package.json
-├── 📄 pnpm-lock.yaml
-├── 📄 voice_control.php
+![folder](https://github.com/user-attachments/assets/25889e2c-771e-4494-bd17-e0d6b3911f22)
 
-yaml
-Copy
-Edit
 
 ---
 
