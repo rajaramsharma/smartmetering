@@ -55,18 +55,18 @@ A real-time IoT-based system using **ESP32**, **current sensors (ACS712 or SCT-0
 
 smart-metering/
 │
-├── 📁 api/                    # API endpoints (e.g., readings_api.php, upload_current.php)
-├── 📁 app/                    # Application logic (JS/TS code)
-├── 📁 assets/                 # Static assets (images, icons, fonts)
-├── 📁 components/             # Reusable UI components (if using frontend framework)
-├── 📁 controlhome/            # Pages/scripts to control home appliances
-├── 📁 database setup/         # SQL files or database initialization scripts
-├── 📁 hooks/                  # Custom hooks or backend logic extensions
-├── 📁 includes/               # PHP includes (like db connection or config files)
-├── 📁 lib/                    # Third-party libraries
-├── 📁 public/                 # Public assets (index.html, favicon, etc.)
-├── 📁 scripts/                # Utility or automation scripts
-├── 📁 styles/                 # CSS/Tailwind styles
+├── 📁 api/ # API endpoints (e.g., readings_api.php, upload_current.php)
+├── 📁 app/ # Application logic (JS/TS code)
+├── 📁 assets/ # Static assets (images, icons, fonts)
+├── 📁 components/ # Reusable UI components (if using frontend framework)
+├── 📁 controlhome/ # Pages/scripts to control home appliances
+├── 📁 database setup/ # SQL files or database initialization scripts
+├── 📁 hooks/ # Custom hooks or backend logic extensions
+├── 📁 includes/ # PHP includes (like db connection or config files)
+├── 📁 lib/ # Third-party libraries
+├── 📁 public/ # Public assets (index.html, favicon, etc.)
+├── 📁 scripts/ # Utility or automation scripts
+├── 📁 styles/ # CSS/Tailwind styles
 │
 ├── 📄 .gitignore
 ├── 📄 README.md
@@ -78,7 +78,7 @@ smart-metering/
 ├── 📄 dashboard.php
 ├── 📄 device_status.php
 ├── 📄 energy_calculations.php
-├── 📄 esp32_smart_meter.ino   # ESP32 Arduino sketch for metering
+├── 📄 esp32_smart_meter.ino # ESP32 Arduino sketch for metering
 ├── 📄 get_status.php
 ├── 📄 home.php
 ├── 📄 login.php
@@ -94,8 +94,6 @@ smart-metering/
 ├── 📄 package.json
 ├── 📄 pnpm-lock.yaml
 ├── 📄 voice_control.php
-
----
 
 ## 🧑‍💻 Firmware Setup (Arduino IDE)
 
